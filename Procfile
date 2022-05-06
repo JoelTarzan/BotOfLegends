@@ -1,1 +1,1 @@
-Worker: mode index.js
+worker: npm start
